@@ -1,3 +1,6 @@
+# Checks if an italian word exists or not by looking it up on the Treccani vocabulary.
+# Returns 1 if the words exists, 0 if it doesn't.
+
 import requests as r
 import sys
 import argparse
